@@ -1,8 +1,8 @@
 # DendroDIF-Script
 
 Ce programme vise à rendre la prise de donnée sur DendroDIF plus facile et efficace.
- 
-F1 = Actif (H) ou Suspend (S)
+
+F1 = Actif (H) ou Suspend (S)  
 F2 = Réponse automatique des quesions oui/non et Valider (Voir ci-dessous)
 F3 = Reload Script
 F4 = Exit Script
