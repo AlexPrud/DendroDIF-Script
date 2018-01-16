@@ -4,7 +4,7 @@ Ce programme vise à rendre la prise de donnée sur DendroDIF 2017 plus facile e
 
 Mise en contexte: En tant que techniciens forestiers sur des contrats d'inventaire forestier décennal, nous devons transporter des ordinateurs terrains qui sont lourds et difficile à utiliser. La seule option pour faire bouger la souris est un petit pavé tactile qui ne fonctionne pas très bien. Nous devons travailler avec le programme DendroDIF et cliquer sur plusieurs bouttons d'interface graphique pour compiler des données scientifiques mesurées sur le terrain.
 
-Le Script ici-présent permet donc d'automatiser beaucoup d'actions et réduit le nombre de touches à peser d'environ 80%.
+Le Script ici-présent permet donc d'automatiser beaucoup d'actions et réduit le nombre de touches à peser d'environ 80%, ce qui rend la prise de donnée beaucoup plus accessible.
 
 F1 = Actif (H) ou Suspend (S)  
 F2 = Réponse automatique des quesions oui/non et Valider (Voir ci-dessous)  
