@@ -1,5 +1,13 @@
 # DendroDIF-Script
 
+
+## Installation du programme AutoHotkey
+Ce script est un fichier AutoHotkey. (.ahk)  
+Il nécessite donc l'installation du programme AutoHotkey.  
+https://autohotkey.com/
+
+## Introduction au programme
+
 Ce programme vise à rendre la prise de donnée sur DendroDIF 2017 plus facile et efficace.  
 
 Mise en contexte: En tant que techniciens forestiers sur des contrats d'inventaire forestier décennal, nous devons transporter des ordinateurs terrains qui sont lourds et difficile à utiliser. La seule option pour faire bouger la souris est un petit pavé tactile qui ne fonctionne pas très bien. Nous devons travailler avec le programme DendroDIF et cliquer sur plusieurs bouttons d'interface graphique pour compiler des données scientifiques mesurées sur le terrain.
@@ -14,7 +22,7 @@ F5 = Aide pour mettre les arbres "L" (voir ci-dessous)
 F6 = Aide gaule (Ajoute un essence)  
 F12 ou F11: Initialiser les arbres num  
  
---- PRISE D'ARBRE ---  
+## Prise des arbres
  
 1) Initialiser les arbres num: Peser sur F12 (arbre vivant) ou F11 (arbre mort)  
 2) Peser s pour sab, etc. (Voir ci-dessous)  
@@ -37,11 +45,11 @@ Ctrl + flèche en haut = Arbre précédent
 Ctrl + flèche en bas = Arbre suivant  
 CapsLock = Shift Tab (Tab arrière)  
  
---- SELECTION ARBRES ÉTUDES ---  
+## Selection des arbres etudes
  
 1) Dans l'onglet "Sélection L/PL", Peser sur le numéro d'arbre étude  
 2) Appuyer sur F5  
  
---- APRÈS AVOIR FINI LES REMARQUES ---  
+## Apres les remarques
  
 1) Peser sur F2 pour répondre aux questions oui/non et valider  
